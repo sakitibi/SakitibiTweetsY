@@ -1,2 +1,2 @@
-## 12ninstudioがNode.js Electronを用いて開発したSNSアプリ
+## 12ninstudioがNode.js Electronを用いて開発しているSNSアプリ
 ### まだ開発中
